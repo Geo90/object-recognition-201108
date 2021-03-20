@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+bin/
+lib/
+*.hd5
+*.jpg
+*.png
+Images/

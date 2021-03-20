@@ -1,0 +1,3 @@
+keras==latest
+matplotlib==latest
+opencv-python==latest
